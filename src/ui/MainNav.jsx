@@ -72,7 +72,7 @@ export default function MainNav() {
         <li>
           <Link to='users'>
           <HiOutlineUsers/>
-          <span>Bookings</span>
+          <span>Users</span>
           </Link>
         </li>
         <li>
